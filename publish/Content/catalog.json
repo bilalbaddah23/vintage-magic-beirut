@@ -1,0 +1,131 @@
+{
+  "brand": "Vintage Magic",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "instagram": "https://www.instagram.com/vintagemagicbeirut/",
+  "hours": "Confirm pop-up dates and visiting arrangements with the shop",
+  "hero": "/images/collection-01.jpg",
+  "story": "/images/collection-07.jpg",
+  "galleryImages": [
+    "/images/collection-08.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-11.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-01.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-06.jpg",
+    "/images/collection-12.jpg",
+    "/images/collection-13.jpg"
+  ],
+  "products": [
+    {
+      "id": "slate-mini-look",
+      "name": "Slate Mini Dress Look",
+      "collection": "Archive dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A sleeveless slate-coloured short dress shown in the July photo diary. Photographed in the brand’s archive; this is inspiration, not a live stock listing. Ask Vintage Magic whether the pictured look or a similar find is currently available, and confirm measurements, condition and price.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the shop"
+      ],
+      "images": [
+        "/images/collection-01.jpg"
+      ],
+      "source": "https://www.instagram.com/vintagemagicbeirut/p/DbY1tAgjDfc/?img_index=6"
+    },
+    {
+      "id": "pink-draped-look",
+      "name": "Pink Draped Look",
+      "collection": "Archive separates",
+      "audience": "The edit",
+      "family": "",
+      "description": "A pink draped top styled with light wide-leg trousers in a public native Reel cover. Styling separates are not assumed to be sold together. Photographed in the brand’s archive; this is inspiration, not a live stock listing. Ask Vintage Magic whether the pictured look or a similar find is currently available, and confirm measurements, condition and price.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the shop"
+      ],
+      "images": [
+        "/images/collection-02.jpg"
+      ],
+      "source": "https://www.instagram.com/vintagemagicbeirut/reel/Da-gG_FMHIU/"
+    },
+    {
+      "id": "red-ribbed-look",
+      "name": "Red Ribbed Top Look",
+      "collection": "Archive separates",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red sleeveless ribbed top shown in the July photo diary. Photographed in the brand’s archive; this is inspiration, not a live stock listing. Ask Vintage Magic whether the pictured look or a similar find is currently available, and confirm measurements, condition and price.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the shop"
+      ],
+      "images": [
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/vintagemagicbeirut/p/DbY1tAgjDfc/?img_index=2"
+    },
+    {
+      "id": "floral-midi-look",
+      "name": "Floral Midi Look",
+      "collection": "Archive dresses",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red floral skirt or dress silhouette photographed during a boutique visit; confirm the exact garment reference with the shop. Photographed in the brand’s archive; this is inspiration, not a live stock listing. Ask Vintage Magic whether the pictured look or a similar find is currently available, and confirm measurements, condition and price.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the shop"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/vintagemagicbeirut/p/DbY1tAgjDfc/?img_index=5"
+    },
+    {
+      "id": "contrast-stitch-look",
+      "name": "Contrast Stitch Top Look",
+      "collection": "Archive separates",
+      "audience": "The edit",
+      "family": "",
+      "description": "A dark top with light contrast stitching, shown in the July photo diary. Photographed in the brand’s archive; this is inspiration, not a live stock listing. Ask Vintage Magic whether the pictured look or a similar find is currently available, and confirm measurements, condition and price.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the shop"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/vintagemagicbeirut/p/DbY1tAgjDfc/?img_index=7"
+    },
+    {
+      "id": "green-graphic-look",
+      "name": "Green Graphic Tee Look",
+      "collection": "Archive separates",
+      "audience": "The edit",
+      "family": "",
+      "description": "A green character-print T-shirt styled with light trousers in the July diary. No brand authenticity or current availability is implied. Photographed in the brand’s archive; this is inspiration, not a live stock listing. Ask Vintage Magic whether the pictured look or a similar find is currently available, and confirm measurements, condition and price.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm measurements with the shop"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/vintagemagicbeirut/p/DbY1tAgjDfc/?img_index=8"
+    }
+  ],
+  "services": [],
+  "branches": []
+}
